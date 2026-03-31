@@ -1,0 +1,10 @@
+# ignore all files
+*
+# whitelist specific folders and file types
+!*/
+!.gitignore
+!.github/
+!.github/workflows/*.yml
+!tests/test*
+!README.md
+!*.py
