@@ -1,0 +1,14 @@
+# Ignore __pycache__
+__pycache__/
+
+# Ignore README
+README.md
+
+# Whatever base.pt is
+base.pt
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore batch files
+*.bat
